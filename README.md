@@ -2,7 +2,7 @@
 
 - 🖥️ I have been coding Javascript for almost a year.
 - 🧑🏻‍💻 I am learning TypeScript and NextJs at the moment.
-- 🕊️ you can follow me on Twitter [@BhuwanP](https://twitter.com/BhuwanP69).
+- 🕊️ you can follow me on Twitter [@Bhuwanpp](https://twitter.com/Bhuwanpp).
 
 I've been enjoying web development for the first time since
 I clone popular website (like facebook, w3school) using HTML and CSS.
